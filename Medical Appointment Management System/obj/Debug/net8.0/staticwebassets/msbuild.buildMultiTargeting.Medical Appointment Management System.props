@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Medical Appointment Management System.props" />
+</Project>
